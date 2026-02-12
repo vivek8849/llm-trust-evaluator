@@ -1,7 +1,7 @@
 # 🧠 LLM Trust Evaluator  
 ### Reliability-Aware LLM Evaluation Framework
 ![Repo Size](https://img.shields.io/github/languages/code-size/vivek8849/llm-trust-evaluator)
-![License](https://img.shields.io/github/license/vivek8849/llm-trust-evaluator)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/vivek8849/llm-trust-evaluator)
 
 > A production-ready framework for evaluating LLM reliability using semantic consistency, nonlinear vulnerability calibration, and risk-aware decision logic.
